@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.flex-column-min-100-vh {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(31, 168, 31);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+}/*add pic behind this*/
+
+.hero {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(24, 127, 24);
+  text-align: center;
+  font-size: larger;
+  padding-bottom: 20px;
+}
+
+/*.card h3 {
+  text-align: center;
+  font-weight: bold;
+}
+"search by full country name" not working
+*/
+
+.card {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* add css for button*/
+
+.card-header.text-uppercase {
+  color: black;
+  display: block;
+}
+
+.card-header.text-uppercase h2 {
+  font-weight: bold;
+}
+/* card-header.text-uppercase h2
+  languages/flag/population in collums*/
+
+.subtitle {
+  font-weight: bold;
+}
+
+.footer {
+  color: rgb(31, 168, 31);
+  text-align: center;
+}
