@@ -3,14 +3,11 @@ h1 {
     color: blue;
     text-align: center;
   }
+#subtitle {
+    color: blue;
+    text-align: center;
+  }
   
 p {
     font-family: verdana;
   }
-img {
-    width: 5%;
-    height: 5%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
